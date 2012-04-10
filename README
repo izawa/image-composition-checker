@@ -1,0 +1,6 @@
+What is it?
+Web image composition indicator bookmarklet
+
+Files
+* composition-image.js is original source.
+* minimized.js is compressed bookmarklet.
